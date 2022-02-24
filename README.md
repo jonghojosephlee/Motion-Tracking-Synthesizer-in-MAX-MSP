@@ -1,5 +1,5 @@
 # Motion-Tracking-Modulation-in-MAX/MSP
-####(MAX/MSP language is based on C/C++)
+###(MAX/MSP language is based on C/C++)
 
 
 ##ABOUT
