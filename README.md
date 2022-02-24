@@ -1,8 +1,8 @@
 # Motion-Tracking-Modulation-in-MAX/MSP
-###(MAX/MSP language is based on C/C++)
+(MAX/MSP language is based on C/C++)
 
 
-##ABOUT
+ABOUT
 
 #### In this project, there are four different screens that each have a different modulation. 
 #### These four screens track the motion of the user by computer camera, and the motions are transformed to the value for the modulations. 
